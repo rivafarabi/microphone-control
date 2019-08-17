@@ -1,0 +1,7 @@
+name: Microphone Control
+package: microphone-control
+version: 1.0.0
+description: Toggle and control microphone volume with Deckboard
+author: Riva Farabi
+license: MIT
+repository: 'https://github.com/rivafarabi/microphone-control'
